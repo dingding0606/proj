@@ -1,1 +1,1 @@
-Repo to store project PDFs.
+Repo to store project PDFs and posters.
